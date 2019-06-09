@@ -1,0 +1,50 @@
+c{
+  background-color: #8080ff;
+  text-transform: uppercase;
+text-shadow: 3px 2px grey;
+  font-size: 50px;
+}
+
+d {
+  background-color: yellow;
+  
+}
+
+ul.a {
+  list-style-type: circle;
+}
+
+fon{
+	text-shadow: 3px 2px grey;
+	font-size: 40px;
+	}
+li{
+	font-size: 20px;
+	}
+
+mec{
+	font-size: 20px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+	}
+gp {
+  border-left: 6px solid blue;
+  background-color: lightgrey;
+}
+
+
+body{
+	
+	border: 2px solid black;
+	margin-top: 50px;
+	margin-bottom: 100px;
+	margin-right: 150px;
+	margin-left: 80px;
+	background-image: url('mon.jpg');
+		
+	
+}
+
+p.italic {
+  font-style: italic;
+}
